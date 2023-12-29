@@ -11,8 +11,8 @@ import (
 
 func main() {
 	// 用户名和密码
-	username := "huangshuai@keytop.com.cn"
-	password := "ahourashi!12"
+	username := "xxxxx"
+	password := "xxxxx"
 
 	// 通过命令行参数获取分支变量
 	// args := os.Args
