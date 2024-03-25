@@ -20,7 +20,7 @@ func main() {
 	// 	fmt.Println("Please provide the branch name as a command-line argument.")
 	// 	return
 	// }
-	// branch := args[1]
+	// branch := os.Args[1]
 	//branch := "release_v1.0.0"
 	branch := "release_v1111"
 	//targetDirectory := "2.sql脚本" // 要拉取的目标目录
